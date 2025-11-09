@@ -1,5 +1,5 @@
 
-# Crypto Market Analytics Pipeline
+# End-to-End Crypto Market Analytics Pipeline
 
 ## Project Overview
 
